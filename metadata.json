@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Từ Vựng Tiếng Anh Lớp 9 - Ôn Thi Vào 10",
+  "description": "Ứng dụng trắc nghiệm từ vựng tiếng Anh lớp 9 ôn thi vào 10 thân thiện và dễ học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
